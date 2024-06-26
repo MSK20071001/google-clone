@@ -1,0 +1,48 @@
+img{
+    width: 300px;
+    padding-bottom: 1px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 9px; 
+    margin-bottom:2px;
+}
+input{
+    display: block;
+    width: 500px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    border-radius: 200px;
+    padding-top:20px ;
+    border: solid 1px grey  ;
+    background-image:url(search.svg);
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: 25px ;
+    background-position-x: left ;
+    background-position-y: bottom;
+    background-position: left;
+    background-position: 3px;
+    border-color: rgb(124, 121, 121);
+}
+div{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+button{
+    padding: 5px; 
+    border: solid 1px grey;
+    margin-right:15px ;
+}
+body{
+    background-color: white;
+}
+p{
+   text-align: center;
+   color: black;
+   text-transform: none;
+   font-size: small;
+}
